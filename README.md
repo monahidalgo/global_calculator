@@ -4,9 +4,10 @@
 The Global Calculator App is a mobile application built using Flutter and Dart, designed to provide users with a robust and user-friendly calculator for a variety of mathematical operations. This app offers a modern design, customizable themes, and advanced features, making it suitable for both casual users and those needing more complex calculations.
 
 ### Logo
-![Global Calculator Logo](assets/images/calc.jpeg)
+![GLOBE](https://github.com/user-attachments/assets/c39f4139-c57f-4672-9e69-7f5df63c4bfe)
 
-*Logo Size: 512x512 pixels*
+
+*Logo Size: 500x500 pixels*
 *Logo Design by Mona Hidalgo*
 
 

@@ -3,6 +3,17 @@
 ## Overview
 The Global Calculator App is a mobile application built using Flutter and Dart, designed to provide users with a robust and user-friendly calculator for a variety of mathematical operations. This app offers a modern design, customizable themes, and advanced features, making it suitable for both casual users and those needing more complex calculations.
 
+### Logo
+![Global Calculator Logo](assets/images/calc.jpeg)
+
+*Logo Size: 512x512 pixels*
+*Logo Design by Mona Hidalgo*
+
+
+
+Owner: Mona Hidalgo
+Email: monaego@live.com
+
 ## Features
 - **Basic Functions:** Perform essential calculations such as addition, subtraction, multiplication, and division.
 - **Advanced Functions:** Access scientific operations, including square roots, percentages, and power calculations.
@@ -24,19 +35,19 @@ The Global Calculator App is a mobile application built using Flutter and Dart, 
 - Develop a graphing calculator feature for more complex mathematical tasks.
 - Introduce multi-language support to cater to a wider audience.
 - Continuously improve the user interface and experience based on user feedback.
+## Technologies Used
+- Flutter: This is used to build the user interface and cross-platform compatibility.
+- Dart: This is for handling the app logic and backend processes.
+- Provider Package: For state management.
+- Google Fonts: For a modern and clean typography.
 
-## Getting Started
-To set up the Global Calculator App locally, follow these steps:
+## Contribution
+There are no contributors as of now. If you want to contribute to the project, please contact the owner.
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/global_calculator.git
-
-- Contributing
-  Currently, there are no contributors to this project. If you are interested in contributing, please reach out to the owner at Bilt Soft.
-
-Owner: Mona Hidalgo
+Contact
+Owner: Mona Hidalgo ( BILT SOFT )
 Email: monaego@live.com
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
